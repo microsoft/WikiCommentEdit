@@ -103,12 +103,10 @@ trees
 # pycharm
 .idea
 
-.idea/
-output/
-*.7z
-.DS_Store
 data/
-data/glove/
-data/processed/enwiki*
-data/raw/
-data_processing/extractor.txt
+dataset/
+output/
+wikidata/
+*.7z
+*.bz2
+sumdata_api.py
